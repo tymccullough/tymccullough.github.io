@@ -14,7 +14,7 @@ pronouns: Austin, Texas
 
 # Status emoji
 status:
-  icon: \26F3
+  icon:⛳
 
 # Is this the primary user of the site?
 superuser: true
