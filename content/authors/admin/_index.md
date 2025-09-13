@@ -54,7 +54,7 @@ interests:
   - Drone Photography
 
 education:
-  - area: PhD Computer Science (AI Focus)
+  - area: BBA
     institution: Texas Tech University: Rawls College of Business
     date_start: 2009
     date_end: 2013
@@ -81,8 +81,8 @@ education:
       Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: Business Development
+    company_name: VMware
     company_url: 'https://ai.meta.com/'
     company_logo: ''
     date_start: 2020-01-01
@@ -90,7 +90,7 @@ work:
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: AI Research Intern
-    company_name: OpenAI
+    company_name: SHI
     company_url: 'https://openai.com/'
     company_logo: ''
     date_start: 2019-06-01
