@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Ty McCullough
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ty
+last_name: McCullough
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: MAGA
 
 # Status emoji
 status:
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: SHI AWS Customer Success
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: SHI
     url: https://ai.meta.com/
 
 # Social network links
