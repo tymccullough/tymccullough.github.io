@@ -10,7 +10,7 @@ first_name: Ty
 last_name: McCullough
 
 # Pronouns (optional)
-pronouns: MAGA
+pronouns: Austin, Texas
 
 # Status emoji
 status:
