@@ -14,7 +14,7 @@ pronouns: Austin, Texas
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: \26F3
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,7 +28,7 @@ role: SHI AWS Customer Success
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: SHI
-    url: https://ai.meta.com/
+    url: https://www.shi.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,25 +39,25 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://tymccullough.github.io
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/tymccullough/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Amazon Web Services
+  - Artificial Intelligence
+  - Golf
+  - Drone Photography
 
 education:
   - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    institution: Texas Tech University: Rawls College of Business
+    date_start: 2009
+    date_end: 2013
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
@@ -68,11 +68,11 @@ education:
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.8
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      BBA
+  - area: Marketing & Management
+    institution: TTU
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
@@ -166,4 +166,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Ty is currently an AWS Customer Success Specialist at SHI and holds three AWS certifications, including AWS Solutions Architect Associate, AI Cloud Practitioner, and Certified AWS Cloud Practitioner. His expertise spans VMware virtualization, IT eco-systems, cloud migrations, and Amazon Web Services. Ty’s mission centers on understanding clients’ needs and creating tailored solutions that foster growth and innovation.
